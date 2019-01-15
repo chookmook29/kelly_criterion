@@ -1,4 +1,3 @@
-# Longevity
 # Demonstrates text and entry widgets, and the grid layout manager
 
 from Tkinter import *
